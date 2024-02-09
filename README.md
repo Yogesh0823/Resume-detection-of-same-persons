@@ -35,12 +35,13 @@
 ## Result output in pandas dataframe
 * using pandas dataframe
 * First in list always compared by itself and other in list & then it will give how much percentage match the resume in list.
-![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/results.png)
+![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/results.png)
 * For saving your output in .csv file uncomment the last line of code in from resume_match.py file.
 * Now you can sort the data and more using pandas function.
 
 # For extracting resume info like name , number, email, skills, education.
-#### using file resume_ext.py you can extract info.
+***
+  #### using file resume_ext.py you can extract info.
 * import extraction fuction in .py file.
 * run file info.py
   
@@ -49,4 +50,8 @@
   * all extraction function are define in info.py file.
   * for pdf and docs both file are accept.
   * for pdf use extract_text_from_pdf("your pdf file path") and for docs use extract_text_from_doc("your doc file path")
-![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/info_ext.png)
+  #### code
+  ![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/code.png)
+  #### output
+  ![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/output.png)
+***
