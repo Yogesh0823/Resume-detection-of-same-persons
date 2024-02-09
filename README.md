@@ -52,6 +52,10 @@
   * for pdf use extract_text_from_pdf("your pdf file path") and for docs use extract_text_from_doc("your doc file path")
   #### code
   ![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/code.png)
-  #### output
+  
+  #### output without number and email in resume.
   ![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/output.png)
+  
+  #### output with number and email in resume.
+  ![result](https://github.com/Yogesh0823/Resume-detection-of-same-persons/blob/main/sample_resume/number-email.png)
 ***
