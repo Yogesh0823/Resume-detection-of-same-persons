@@ -1,7 +1,7 @@
 import resume_ext
 
 # extracting text from pdf resume.
-pdf_resume = "sample_resume/Alice Clark CV.pdf"
+pdf_resume = "sample_resume/Alice Clark CV num-email update.pdf"
 data = resume_ext.extract_text_from_pdf(pdf_resume)
 text_data = ""
 for i in data:
